@@ -1,6 +1,8 @@
 # Go-Type
 The prettiest speed typing game in the terminal. 
 
+![Go-Type Demo GIF](/Users/guyb/Documents/repos/go-type/demo.gif "Go-Type Demo GIF")
+
 ## Short Description
 
 I made this mini game because 2 major features were missing from other tools.
